@@ -13,4 +13,4 @@
 
 
 
-[[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/robert-diaz-732a37155/)
+[[linkedin]: (https://www.linkedin.com/in/robert-diaz-732a37155/)
